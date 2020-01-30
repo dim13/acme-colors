@@ -27,6 +27,7 @@ highlight! Comment guibg=bg guifg=#303030 gui=italic ctermbg=bg ctermfg=236 cter
 highlight! Special guibg=bg guifg=fg gui=bold ctermbg=bg ctermfg=fg cterm=bold
 highlight! SpecialKey guibg=bg guifg=fg gui=bold ctermbg=bg ctermfg=fg cterm=bold
 highlight! Directory guibg=bg guifg=fg gui=bold ctermbg=bg ctermfg=fg cterm=bold
+highlight! Todo guibg=bg guifg=fg gui=bold ctermbg=bg ctermfg=fg cterm=bold
 highlight! link Title Directory
 highlight! link MoreMsg Comment
 highlight! link Question Comment
